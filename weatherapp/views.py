@@ -10,7 +10,7 @@ def home(request):
     url = "http://api.openweathermap.org/data/2.5/weather"
     params = {
         "q": city,
-        "appid": "17ca6f48ae6a8ca0f4ad56cd0f8f3f19",  
+        "appid": "ENTER USER APIKEY",  
         "units": "metric"
     }
 
